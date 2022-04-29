@@ -1,0 +1,149 @@
+:root {
+    --main-bg: #ffffff;
+    --second-bg: #62b4ff;
+    --txt-white: #ffffff;
+    --m-body-size: 17px;
+    --m-title-size: 25px;
+    --m-head-size: 34px;
+
+    --t-body-size: 22px;
+    --t-title-size: 33px;
+    --t-head-size: 44px;
+
+    --d-body-size: 25px;
+    --d-title-size: 37px;
+    --d-head-size: 50px;
+}
+.skills{
+    text-align: left;
+    margin-left: 5%;
+}
+.skills div:nth-child(1) li,
+.skills div:nth-child(2) li,
+.skills div:nth-child(3) li,
+.skills div:nth-child(8) li{
+    list-style: none;
+}
+.title{
+    display: inline-block;
+}
+hr{
+    width: 90%;
+    height: 2px;
+    background-color: #000000;
+}
+.list .active{
+    background-color: var(--second-bg);
+    color: var(--txt-white);
+}
+li{
+    cursor: pointer;
+}
+
+.box{
+    background-color: #ffffff;
+}
+.blue{
+    background-color: #62b4ff;
+}
+form {
+    border: thin solid red;
+    padding: 2rem;
+    margin: 2rem;
+    display: flex;
+}
+.formtext {
+    position: relative;
+    top: -48px;
+    background: white;
+    padding: 7px;
+    width: 57px;
+    color: red;
+}
+.hidden{
+    display: none;
+}
+@media only screen and (max-width: 600px) {
+    h1{
+        font-size: var(--m-head-size);
+    }
+    p, a, input, button, li, h5{
+        font-size: var(--m-body-size);
+    }
+    h5{
+        margin-top: 2%;
+        margin-bottom: 2%;
+        width: fit-content;
+    }
+    h4{
+        margin-bottom: 0;
+        font-size: var(--m-title-size);
+    }
+    .skills{
+        text-align: left;
+        margin-left: 1%;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    h1{
+        font-size: var(--t-head-size);
+    }
+    p, a, input, button, li, h5{
+        font-size: var(--t-body-size);
+    }
+    h5{
+        margin-top: 2%;
+        margin-bottom: 2%;
+        width: fit-content;
+    }
+    h4{
+        margin-bottom: 0;
+        font-size: var(--t-title-size);
+    }
+    .skills{
+        text-align: left;
+        margin-left: 1%;
+    }
+}
+@media only screen and (max-width: 1280px) {
+    h1{
+        font-size: var(--t-head-size);
+    }
+    p, a, input, button, li, h5{
+        font-size: var(--t-body-size);
+    }
+    h5{
+        margin-top: 2%;
+        margin-bottom: 2%;
+        width: fit-content;
+    }
+    h4{
+        margin-bottom: 0;
+        font-size: var(--t-title-size);
+    }
+    .skills{
+        text-align: left;
+        margin-left: 1%;
+    }
+}
+@media only screen and (min-width: 1281px) {
+    h1{
+        font-size: var(--d-head-size);
+    }
+    p, a, input, button, li, h5{
+        font-size: var(--d-body-size);
+    }
+    h5{
+        margin-top: 2%;
+        margin-bottom: 2%;
+        width: fit-content;
+    }
+    h4{
+        margin-bottom: 0;
+        font-size: var(--d-title-size);
+    }
+    .skills{
+        text-align: left;
+        margin-left: 1%;
+    }
+}

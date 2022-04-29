@@ -1,0 +1,174 @@
+
+{
+    "SocialMedias": [
+      "https://github.com/",
+      "https://www.linkedin.com/",
+      "https://www.facebook.com/"
+    ],
+    "Experiences": [
+      {
+        "companyName": "Demo1 Technologies",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+        "url": "https://www.google.com/",
+        "roles": [
+          {
+            "title": "Full Stack Developer",
+            "description": "Built and updated various Chrome Extensions.",
+            "startDate": "2017-01-01",
+            "endDate": "2017-05-01",
+            "location": "New York, USA"
+          }
+        ]
+      },
+      {
+        "companyName": "Demo2 Technologies",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+        "url": "https://www.google.com/",
+        "roles": [
+          {
+            "title": "UI Designer",
+            "description": "Design user-fridendly web page",
+            "startDate": "2016-05-01",
+            "endDate": "2016-09-01",
+            "location": "Beijing, China"
+          }
+        ]
+      }
+    ],
+    "Skills": [
+      {
+        "Area": "AWARDS",
+        "SkillSet": [
+          {
+            "Name": "Winner: Top 3 competitor in Web Development Challenge - Man Up Ontario"
+          },
+          {
+            "Name": "Winner: Oro-Medonte Chamber of Commerce, 2021, Great Industry Trending product."
+          },
+          {
+            "Name": "Winner: Georgian College, 2020, #1 Awarded competitor to raise environment awareness in Barrie."
+          }
+        ]
+      },        
+      {
+        "Area": "RECOMMENDATION",
+        "SkillSet": [
+          {
+            "Name": "Winner: World Wide Web Consortium, 2020, Industry standard feedback from expert."
+          },
+          {
+            "Name": "Winner: Programming Industry, 2020, Industry attitude standard feedback from expert."
+          }
+        ]
+      },        
+      {
+        "Area": "CERTIFICATE",
+        "SkillSet": [
+          {
+            "Name": "Coursera: Crash course on Python"
+          }
+        ]
+      },        
+      {
+        "Area": "SKILLS",
+        "SkillSet": [
+          {
+            "Name": "HTML, CSS, SCSS, Bootstrap, JavaScript, JSON, React, jQuery, WordPress, WooCommerce"
+          },
+          {
+            "Name": "Python, Flask, NodeJS, ExpressJS, PHP, OOP, ASP.NET, XML, PowerShell"
+          },
+          {
+            "Name": "MongoDB, SQL Server, MySQL"
+          },
+          {
+            "Name": "Git, GitHub, BitBucket, Jira, Slack, Trello"
+          },
+          {
+            "Name": "Photoshop, Illustrator, Figma, Mailchimp, SEO"
+          }
+        ]
+      },        
+      {
+        "Area": "EXPERIENCE",
+        "Title": "Front-End Developer",
+        "Date": "Kleurvision Inc (01. 2022 - Present)",
+        "SkillSet": [
+          {
+            "Name": "Fixed bugs and rewritten React code for Front-End"
+          },
+          {
+            "Name": "Migrated to the latest code version of React"
+          },
+          {
+            "Name": "Added new tasks using Python on PythonAnywhere for Back-End"
+          },
+          {
+            "Name": "Integrated Apple Pay and Google Pay using Stripe API to the web application."
+          },
+          {
+            "Name": "Setup SendGrid API with Python to send emails to client."
+          },
+          {
+            "Name": "Used Jira for progress tracking and Bitbucket for code version control."
+          }
+        ]
+      },        
+      {
+        "Title": "Web Developer",
+        "Date": "Oro-Medonte Chamber of Commerce (09. 2021 - 01. 2022)",
+        "SkillSet": [
+          {
+            "Name": "Communicated with client to clarify client's need for the best technical solution"
+          },
+          {
+            "Name": "Designed Industry UI, UX trending, responsive WordPress website using Theme builder DIVI"
+          },
+          {
+            "Name": "Converted data from Excel to MySQL to modify, maintain 350 businesses record"
+          },
+          {
+            "Name": "Migrated website from localhost to server using WP All in One WP Migration plugin, FTP FileZilla"
+          },
+          {
+            "Name": "Setup WooCommerce service, Stripe for membership payment using Credit Card, Paypal, Google Pay"
+          }
+        ]
+      },        
+      {
+        "Area": "PROJECT",
+        "Title": "Man Up Ontario",
+        "SkillSet": [
+            {
+                "Name": "Made project management plan using Agile"
+              },
+              {
+                "Name": "Performed testing and production builds involving data changes and stored procedure building while following established change management procedures"
+              },
+              {
+                "Name": "Created a CRUD website with JavaScript ecosystem using Node.js, Express, MongoDB"
+              },
+              {
+                "Name": "Dealt with version control system’s conflicts using Git and GitHub"
+              },
+              {
+                "Name": "Tracked workload and process of team members using Freedcamp"
+              }
+        ]
+      },        
+      {
+        "Area": "EDUCATION",
+        "SkillSet": [
+            {
+                "Name": "Honors Graduate of Georgian College"
+              },
+              {
+                "Name": "Diploma of Interactive Media Web - Design"
+              },
+              {
+                "Name": "Overall GPA: 3.7 / 4.0"
+              }
+        ]
+      }        
+    ]
+}
